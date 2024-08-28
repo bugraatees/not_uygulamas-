@@ -1,0 +1,3 @@
+Bugra Ates:75,65,80
+Veysel Aslan:85,90,85
+Ali Dinç:45,50,60
