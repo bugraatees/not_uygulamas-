@@ -1,3 +1,5 @@
+#Pytonda Dosya Yönetimi Uygulaması
+
 def not_hesapla(satir):
     satir = satir[:-1]
     liste = satir.split(':')
